@@ -14,6 +14,8 @@ This project was developed as part of **COGS 118B** (UC San Diego, Prof. Virgini
 
 📄 **[Fast Neuroevolution for Flappy Bird: A Headless Simulator and PRML‑Style Analysis of a Simple Neuron Policy (PDF)](paper/A%20Headless%20Simulator%20and%20PRML%E2%80%91Style%20Analysis%20of%20a%20Simple%20Neuron%20Policy.pdf)**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20622540.svg)](https://doi.org/10.5281/zenodo.20622540)
+
 The paper covers:
 - The necessity and implementation of the headless simulator to bypass rendering bottlenecks.
 - The "simple neuron" controller design (perceptron + sigmoid + threshold).
